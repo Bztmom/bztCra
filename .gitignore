@@ -1,0 +1,16 @@
+
+*.ckpt
+
+*.pyc
+
+*.log
+
+data/*
+
+~$*.docx
+
+*.md
+
+code/run_pipelines.py
+
+.idea/*
