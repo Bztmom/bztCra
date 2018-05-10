@@ -1,0 +1,144 @@
+nohup: ignoring input
+['hzk_new', 'dycj', 'cjw', 'zqw_new', 'ymcj', 'jrtzw', 'zwwcj', 'zgwcj', 'zcw', 'common', 'sina', 'lzk_new', 'qjw', '21jjw', 'zzw', 'zqzx', 'hxcj', 'thsjj', 'gmw_new', 'hqcj_new', 'liejin99', 'zgqyxww', 'fhwcj', 'hxw', 'rmwcj', 'ecncj', 'swcj', 'zgjjw', 'zgjyw', 'sohu', 'yswcj', 'cjsb', 'dywcj', 'ljw', '163_new', 'jrj', 'zgggb_new', 'nfcfw', 'dfcj_new', 'hgcj', 'ccwcj', 'jjgcw', 'ytcj', 'lhlc', 'zjzx', 'mrjjxw', 'xhcj_new', 'zqrb', 'dzwcj', 'zgzqw', 'txcj', 'zqsb', 'jcwjr', 'cxw', 'yszq']
+Start crawling ... 
+there are 54 tasks
+start proc 1
+start proc 2
+start proc 3
+start proc 4
+start pipeline for  证券市场红周刊 6
+start proc 5
+start pipeline for  第一财经 2
+start pipeline for  财经网 3
+start pipeline for  中青网 4
+start pipeline for  野马财经 5
+野马财经 finished cost 6.839361s
+start pipeline for  金融投资网 6
+第一财经 finished cost 9.715232s
+start pipeline for  中文网财经 7
+中文网财经 finished cost 21.067005s
+start pipeline for  中国网财经 8
+金融投资网 finished cost 27.860370s
+start pipeline for  中财网 9
+http://industry.cfi.cn/index.aspx?catid=A0A4127A4128A4132
+http://industry.cfi.cn/index.aspx?catid=A0A4127A4128A4144
+http://industry.cfi.cn/index.aspx?catid=A0A4127A4128A4136
+财经网 finished cost 45.822670s
+start pipeline for  新浪财经 10
+http://industry.cfi.cn/index.aspx?catid=A0A4127A4128A4134
+http://industry.cfi.cn/index.aspx?catid=A0A4127A4128A4140
+http://industry.cfi.cn/index.aspx?catid=A0A4127A4128A4139
+http://industry.cfi.cn/index.aspx?catid=A0A4127A4128A4495
+http://industry.cfi.cn/index.aspx?catid=A0A4127A4128A4141
+http://industry.cfi.cn/index.aspx?catid=A0A4127A4128A4133
+http://industry.cfi.cn/index.aspx?catid=A0A4127A4128A4138
+http://industry.cfi.cn/index.aspx?catid=A0A4127A4128A4145
+http://industry.cfi.cn/index.aspx?catid=A0A4127A4128A4142
+http://industry.cfi.cn/index.aspx?catid=A0A4127A4128A5063
+http://industry.cfi.cn/index.aspx?catid=A0A4127A4128A4143
+http://industry.cfi.cn/index.aspx?catid=A0A4127A4128A4135
+中青网 finished cost 80.856089s
+start pipeline for  证券网蓝刊 11
+http://industry.cfi.cn/index.aspx?catid=A0A4127A4128A4137
+中财网 finished cost 48.955664s
+start pipeline for  全景网 12
+证券市场红周刊 finished cost 94.036952s
+start pipeline for  21经济网 13
+2017年12月25日14:00
+证券网蓝刊 finished cost 17.513540s
+start pipeline for  中证网 14
+2017年12月25日14:07
+2017年12月25日14:10
+2017年12月25日14:32
+2017年12月25日13:55
+2017年12月25日14:05
+2017年12月25日14:09
+新浪财经 finished cost 61.469376s
+start pipeline for  证券之星 15
+中证网 finished cost 36.551385s
+start pipeline for  华讯财经 16
+2017年12月25日14:14
+2017年12月25日14:01
+全景网 finished cost 59.344158s
+start pipeline for  同花顺经济 17
+2017年12月25日14:12
+21经济网 finished cost 50.106932s
+start pipeline for  光明网 18
+光明网 finished cost 2.474264s
+start pipeline for  环球财经 19
+环球财经 finished cost 21.081642s
+start pipeline for  同花顺猎金 20
+华讯财经 finished cost 35.066926s
+start pipeline for  中国企业新闻网 21
+同花顺猎金 finished cost 10.414158s
+start pipeline for  凤凰网财经 22
+中国企业新闻网 finished cost 41.330068s
+start pipeline for  和讯网 23
+和讯网 finished cost 197.680551s
+start pipeline for  人民网财经 24
+证券之星 finished cost 513.746212s
+start pipeline for  ECN财经 25
+ECN财经 finished cost 3.926120s
+start pipeline for  舜网财经 26
+舜网财经 finished cost 97.038952s
+start pipeline for  中国经济网 27
+同花顺经济 finished cost 617.982926s
+start pipeline for  中国经营网 28
+人民网财经 finished cost 462.963060s
+start pipeline for  搜狐网 29
+中国经营网 finished cost 120.981366s
+start pipeline for  央视网经济 30
+搜狐网 finished cost 10.995931s
+start pipeline for  长江商报 31
+中国网财经 finished cost 882.215430s
+start pipeline for  大洋网财经 32
+长江商报 finished cost 92.029154s
+start pipeline for  蓝鲸财经网 33
+蓝鲸财经网 finished cost 79.978686s
+start pipeline for  金融界 34
+央视网经济 finished cost 320.045356s
+start pipeline for  中国改革报 35
+中国经济网 finished cost 501.022288s
+start pipeline for  南方财富网 36
+中国改革报 finished cost 180.970315s
+start pipeline for  东方财经 37
+东方财经 finished cost 4.990808s
+start pipeline for  华股财经 38
+大洋网财经 finished cost 506.038919s
+start pipeline for  长城网财经 39
+长城网财经 finished cost 65.933123s
+start pipeline for  经济观察网 40
+华股财经 finished cost 133.999002s
+start pipeline for  叶檀财经 41
+经济观察网 finished cost 41.018575s
+start pipeline for  龙虎理财 42
+叶檀财经 finished cost 4.993197s
+start pipeline for  中金在线 43
+龙虎理财 finished cost 19.075668s
+start pipeline for  每日经济新闻 44
+每日经济新闻 finished cost 281.025017s
+start pipeline for  新华财经网 45
+新华财经网 finished cost 2.036948s
+start pipeline for  证券日报 46
+证券日报 finished cost 190.955514s
+start pipeline for  大众网财经 47
+中金在线 finished cost 732.977429s
+start pipeline for  163 48
+大众网财经 finished cost 384.992626s
+start pipeline for  中国证券网 49
+中国证券网 finished cost 149.006274s
+start pipeline for  腾讯财经 50
+腾讯财经 finished cost 89.064501s
+start pipeline for  证券时报 51
+证券时报 finished cost 289.959623s
+start pipeline for  荆楚网金融 52
+163 finished cost 737.054001s
+start pipeline for  财新网 53
+荆楚网金融 finished cost 72.999991s
+start pipeline for  央视证券 54
+财新网 finished cost 26.922502s
+央视证券 finished cost 195.009166s
+南方财富网 finished cost 2116.962007s
+金融界 finished cost 3477.051903s
+凤凰网财经 finished cost 5696.920348s
+Crawling finished ... cost 5875.046676s 

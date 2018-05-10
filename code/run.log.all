@@ -1,0 +1,310 @@
+nohup: ignoring input
+['hzk_new', 'dycj', 'cjw', 'zqw_new', 'ymcj', 'jrtzw', 'zwwcj', 'zgwcj', 'zcw', 'common', 'sina', 'lzk_new', 'qjw', '21jjw', 'zzw', 'zqzx', 'hxcj', 'thsjj', 'gmw_new', 'hqcj_new', 'liejin99', 'zgqyxww', 'fhwcj', 'hxw', 'rmwcj', 'ecncj', 'swcj', 'zgjjw', 'zgjyw', 'sohu', 'yswcj', 'cjsb', 'dywcj', 'ljw', 'jrj', 'zgggb_new', 'nfcfw', 'dfcj_new', 'hgcj', 'ccwcj', 'jjgcw', 'ytcj', 'lhlc', 'zjzx', 'mrjjxw', 'xhcj_new', 'zqrb', 'dzwcj', '163', 'zgzqw', 'txcj', 'zqsb', 'jcwjr', 'cxw', 'yszq']
+Start crawling ... 
+there are 54 tasks
+start proc 1
+start proc 2
+start proc 3
+start proc 4
+start pipeline for  证券市场红周刊 6
+start proc 5
+start pipeline for  第一财经 2
+start pipeline for  财经网 3
+start pipeline for  中青网 4
+start pipeline for  野马财经 5
+第一财经 finished cost 18.195491s
+start pipeline for  金融投资网 6
+财经网 finished cost 131.550759s
+start pipeline for  中文网财经 7
+野马财经 finished cost 235.638807s
+start pipeline for  中国网财经 8
+WARNING:root:url:http://finance.youth.cn/finance_money/../finance_jsxw/201709/t20170930_1081184_18.htm return 404
+WARNING:root:url:http://finance.youth.cn/finance_money/../finance_jsxw/201709/t20170930_1081184_28.htm return 404
+WARNING:root:url:http://finance.youth.cn/finance_money/../finance_jsxw/201709/t20170930_1081184_38.htm return 404
+WARNING:root:url:http://finance.youth.cn/finance_money/../finance_jsxw/201709/t20170930_1081184_48.htm return 404
+WARNING:root:url:http://finance.youth.cn/finance_money/../finance_jsxw/201709/t20170930_1081184_58.htm return 404
+WARNING:root:url:http://finance.youth.cn/finance_money/../finance_jsxw/201709/t20170930_1081184_68.htm return 404
+WARNING:root:url:http://finance.youth.cn/finance_money/../finance_jsxw/201709/t20170930_1081184_78.htm return 404
+证券市场红周刊 finished cost 342.594283s
+start pipeline for  中财网 9
+http://industry.cfi.cn/index.aspx?catid=A0A4127A4128A4132
+中文网财经 finished cost 271.648960s
+start pipeline for  新浪财经 10
+http://industry.cfi.cn/index.aspx?catid=A0A4127A4128A4132&dycatid=&pagepara=&curntime=20171219112033&curid=20171219000462
+http://industry.cfi.cn/index.aspx?catid=A0A4127A4128A4144
+中国网财经 finished cost 293.495601s
+start pipeline for  证券网蓝刊 11
+新浪财经 finished cost 127.688970s
+start pipeline for  全景网 12
+http://industry.cfi.cn/index.aspx?catid=A0A4127A4128A4144&dycatid=&pagepara=&curntime=20171218072236&curid=20171218000088
+http://industry.cfi.cn/index.aspx?catid=A0A4127A4128A4136
+http://industry.cfi.cn/index.aspx?catid=A0A4127A4128A4136&dycatid=&pagepara=&curntime=20171219101419&curid=20171219000235
+http://industry.cfi.cn/index.aspx?catid=A0A4127A4128A4134
+http://industry.cfi.cn/index.aspx?catid=A0A4127A4128A4134&dycatid=&pagepara=&curntime=20171027092357&curid=20171027000290
+金融投资网 finished cost 902.725884s
+start pipeline for  21经济网 13
+2017年12月22日07:00
+2017年12月22日07:00
+2017年12月22日07:00
+2017年12月22日07:00
+2017年12月22日07:00
+2017年12月22日16:27
+2017年12月22日16:31
+2017年12月22日16:34
+2017年12月23日07:00
+2017年12月23日07:00
+2017年12月23日07:00
+2017年12月23日07:00
+2017年12月23日07:00
+2017年12月23日07:00
+2017年12月23日07:00
+2017年12月23日07:00
+2017年12月23日07:00
+2017年12月23日07:00
+2017年12月23日07:00
+2017年12月23日07:00
+2017年12月22日07:00
+2017年12月22日07:00
+2017年12月22日07:00
+2017年12月22日07:00
+2017年12月22日07:00
+2017年12月22日07:00
+2017年12月22日10:10
+2017年12月22日13:07
+http://industry.cfi.cn/index.aspx?catid=A0A4127A4128A4140
+2017年12月22日16:29
+2017年12月22日16:32
+2017年12月23日07:00
+2017年12月23日07:00
+2017年12月23日07:00
+2017年12月23日07:00
+2017年12月23日07:00
+2017年12月23日07:00
+2017年12月23日07:00
+2017年12月23日07:00
+2017年12月23日07:00
+2017年12月23日07:00
+2017年12月20日07:00
+2017年12月20日07:00
+2017年12月20日07:00
+2017年12月20日07:00
+2017年12月20日07:00
+2017年12月21日07:00
+2017年12月21日07:00
+2017年12月21日07:00
+2017年12月21日07:00
+2017年12月21日07:00
+2017年12月22日07:00
+2017年12月22日07:00
+2017年12月22日07:00
+2017年12月22日07:00
+2017年12月22日07:00
+2017年12月22日07:00
+2017年12月22日07:00
+2017年12月23日07:00
+2017年12月23日07:00
+http://industry.cfi.cn/index.aspx?catid=A0A4127A4128A4140&dycatid=&pagepara=&curntime=20171026100000&curid=20171026000367
+2017年12月23日07:00
+证券网蓝刊 finished cost 555.549024s
+start pipeline for  中证网 14
+2017年12月22日07:00
+2017年12月22日07:00
+2017年12月22日07:00
+2017年12月22日07:00
+2017年12月22日07:00
+2017年12月22日07:00
+2017年12月22日07:00
+2017年12月22日07:00
+2017年12月22日07:54
+2017年12月22日15:45
+2017年12月22日16:43
+2017年12月23日07:00
+2017年12月23日07:00
+2017年12月23日07:00
+2017年12月23日07:00
+2017年12月23日07:00
+2017年12月23日07:00
+2017年12月23日07:00
+2017年12月23日07:00
+2017年12月23日07:49
+21经济网 finished cost 225.242490s
+start pipeline for  证券之星 15
+http://industry.cfi.cn/index.aspx?catid=A0A4127A4128A4139
+http://industry.cfi.cn/index.aspx?catid=A0A4127A4128A4139&dycatid=&pagepara=&curntime=20171120165125&curid=20171120000802
+http://industry.cfi.cn/index.aspx?catid=A0A4127A4128A4495
+WARNING:root:url:http://finance.youth.cn/finance_food/./201711/t20171127_1107071_16.htm return 404
+中证网 finished cost 246.089899s
+start pipeline for  华讯财经 16
+http://industry.cfi.cn/index.aspx?catid=A0A4127A4128A4495&dycatid=&pagepara=&curntime=20170310152511&curid=20170310000588
+WARNING:root:url:http://finance.youth.cn/finance_food/./201710/t20171025_1091829_15.htm return 404
+http://industry.cfi.cn/index.aspx?catid=A0A4127A4128A4141
+http://industry.cfi.cn/index.aspx?catid=A0A4127A4128A4141&dycatid=&pagepara=&curntime=20171212154421&curid=20171212000806
+http://industry.cfi.cn/index.aspx?catid=A0A4127A4128A4133
+http://industry.cfi.cn/index.aspx?catid=A0A4127A4128A4133&dycatid=&pagepara=&curntime=20171213095826&curid=20171213000180
+WARNING:root:url:http://finance.youth.cn/finance_house/../finance_jsxw/201710/t20171017_1088063_13.htm return 404
+WARNING:root:url:http://finance.youth.cn/finance_house/../finance_jsxw/201710/t20171017_1088063_23.htm return 404
+WARNING:root:url:http://finance.youth.cn/finance_house/../finance_jsxw/201710/t20171017_1088063_33.htm return 404
+http://industry.cfi.cn/index.aspx?catid=A0A4127A4128A4138
+http://industry.cfi.cn/index.aspx?catid=A0A4127A4128A4138&dycatid=&pagepara=&curntime=20171217230703&curid=20171217000081
+WARNING:root:url:http://finance.youth.cn/finance_djgj/../finance_gdxw/201711/t20171109_1098657_11.htm return 404
+http://industry.cfi.cn/index.aspx?catid=A0A4127A4128A4145
+http://industry.cfi.cn/index.aspx?catid=A0A4127A4128A4145&dycatid=&pagepara=&curntime=20171201073707&curid=20171201000059
+http://industry.cfi.cn/index.aspx?catid=A0A4127A4128A4142
+http://industry.cfi.cn/index.aspx?catid=A0A4127A4128A4142&dycatid=&pagepara=&curntime=20171216194544&curid=20171216000176
+华讯财经 finished cost 639.930728s
+start pipeline for  同花顺经济 17
+http://industry.cfi.cn/index.aspx?catid=A0A4127A4128A5063
+全景网 finished cost 1507.374872s
+start pipeline for  光明网 18
+http://industry.cfi.cn/index.aspx?catid=A0A4127A4128A5063&dycatid=&pagepara=&curntime=20160203005015&curid=20160203000034
+http://industry.cfi.cn/index.aspx?catid=A0A4127A4128A4143
+光明网 finished cost 106.035277s
+start pipeline for  环球财经 19
+http://industry.cfi.cn/index.aspx?catid=A0A4127A4128A4143&dycatid=&pagepara=&curntime=20171210201525&curid=20171210000136
+http://industry.cfi.cn/index.aspx?catid=A0A4127A4128A4135
+http://industry.cfi.cn/index.aspx?catid=A0A4127A4128A4135&dycatid=&pagepara=&curntime=20171215073626&curid=20171215000074
+http://industry.cfi.cn/index.aspx?catid=A0A4127A4128A4137
+http://industry.cfi.cn/index.aspx?catid=A0A4127A4128A4137&dycatid=&pagepara=&curntime=20170905095321&curid=20170905000325
+中财网 finished cost 2127.107814s
+start pipeline for  同花顺猎金 20
+WARNING:root:url:http://finance.youth.cn/right/201709/t20170914_1071104_13.htm return 404
+WARNING:root:url:http://finance.youth.cn/right/201709/t20170914_1071104_23.htm return 404
+WARNING:root:url:http://finance.youth.cn/right/201709/t20170914_1071111_14.htm return 404
+WARNING:root:url:http://finance.youth.cn/right/201709/t20170914_1071111_24.htm return 404
+WARNING:root:url:http://finance.youth.cn/right/201709/t20170914_1071111_34.htm return 404
+WARNING:root:url:http://finance.youth.cn/right/201709/t20170914_1071111_44.htm return 404
+WARNING:root:url:http://finance.youth.cn/right/201709/t20170914_1071111_54.htm return 404
+WARNING:root:url:http://finance.youth.cn/right/201709/t20170914_1071111_64.htm return 404
+WARNING:root:url:http://finance.youth.cn/right/201709/t20170914_1071111_74.htm return 404
+同花顺猎金 finished cost 109.741163s
+start pipeline for  中国企业新闻网 21
+中国企业新闻网 finished cost 199.156627s
+start pipeline for  凤凰网财经 22
+同花顺经济 finished cost 1030.569393s
+start pipeline for  和讯网 23
+中青网 finished cost 3167.780196s
+start pipeline for  人民网财经 24
+和讯网 finished cost 266.224978s
+start pipeline for  ECN财经 25
+ECN财经 finished cost 23.028926s
+start pipeline for  舜网财经 26
+Traceback (most recent call last):
+  File "/home/zhangxiang/news_crawler/code/XX_Crawler/XXNewsETL.py", line 185, in run_pipelines
+    for news_info in crawler.run():
+  File "/home/zhangxiang/news_crawler/code/XX_Crawler/XXCrawlers.py", line 205, in run
+    if encoding.lower() == "gb2312":
+AttributeError: 'NoneType' object has no attribute 'lower'
+Traceback (most recent call last):
+  File "/home/zhangxiang/news_crawler/code/XX_Crawler/XXNewsETL.py", line 185, in run_pipelines
+    for news_info in crawler.run():
+  File "/home/zhangxiang/news_crawler/code/XX_Crawler/XXCrawlers.py", line 205, in run
+    if encoding.lower() == "gb2312":
+AttributeError: 'NoneType' object has no attribute 'lower'
+舜网财经 finished cost 514.545498s
+start pipeline for  中国经济网 27
+凤凰网财经 finished cost 1058.732507s
+start pipeline for  中国经营网 28
+证券之星 finished cost 2846.859183s
+start pipeline for  搜狐网 29
+搜狐网 finished cost 128.523094s
+start pipeline for  央视网经济 30
+人民网财经 finished cost 980.627892s
+start pipeline for  长江商报 31
+中国经营网 finished cost 465.883891s
+start pipeline for  大洋网财经 32
+大洋网财经 finished cost 292.022792s
+start pipeline for  蓝鲸财经网 33
+长江商报 finished cost 552.074811s
+start pipeline for  金融界 34
+蓝鲸财经网 finished cost 309.133778s
+start pipeline for  中国改革报 35
+央视网经济 finished cost 1228.042030s
+start pipeline for  南方财富网 36
+255
+1806
+2187
+环球财经 finished cost 3356.028315s
+start pipeline for  东方财经 37
+192
+1062
+477
+494
+805
+1856
+1267
+南方财富网 finished cost 529.250366s
+start pipeline for  华股财经 38
+东方财经 finished cost 447.229740s
+start pipeline for  长城网财经 39
+中国改革报 finished cost 1346.465135s
+start pipeline for  经济观察网 40
+金融界 finished cost 1619.514783s
+start pipeline for  叶檀财经 41
+叶檀财经 finished cost 40.379725s
+start pipeline for  龙虎理财 42
+经济观察网 finished cost 150.817440s
+start pipeline for  中金在线 43
+长城网财经 finished cost 673.552686s
+start pipeline for  每日经济新闻 44
+龙虎理财 finished cost 273.407108s
+start pipeline for  新华财经网 45
+新华财经网 finished cost 21.512623s
+start pipeline for  证券日报 46
+中金在线 finished cost 618.354891s
+start pipeline for  大众网财经 47
+华股财经 finished cost 1476.712183s
+start pipeline for  网易财经 48
+Traceback (most recent call last):
+  File "/home/zhangxiang/news_crawler/code/XX_Crawler/XXNewsETL.py", line 185, in run_pipelines
+    for news_info in crawler.run():
+  File "/home/zhangxiang/news_crawler/code/XX_Crawler/XXCrawlers.py", line 175, in run
+    filename = self.generate_list_filename(list_url)
+TypeError: generate_list_filename() takes exactly 1 argument (2 given)
+Traceback (most recent call last):
+  File "/home/zhangxiang/news_crawler/code/XX_Crawler/XXNewsETL.py", line 185, in run_pipelines
+    for news_info in crawler.run():
+  File "/home/zhangxiang/news_crawler/code/XX_Crawler/XXCrawlers.py", line 175, in run
+    filename = self.generate_list_filename(list_url)
+TypeError: generate_list_filename() takes exactly 1 argument (2 given)
+Traceback (most recent call last):
+  File "/home/zhangxiang/news_crawler/code/XX_Crawler/XXNewsETL.py", line 185, in run_pipelines
+    for news_info in crawler.run():
+  File "/home/zhangxiang/news_crawler/code/XX_Crawler/XXCrawlers.py", line 175, in run
+    filename = self.generate_list_filename(list_url)
+TypeError: generate_list_filename() takes exactly 1 argument (2 given)
+Traceback (most recent call last):
+  File "/home/zhangxiang/news_crawler/code/XX_Crawler/XXNewsETL.py", line 185, in run_pipelines
+    for news_info in crawler.run():
+  File "/home/zhangxiang/news_crawler/code/XX_Crawler/XXCrawlers.py", line 175, in run
+    filename = self.generate_list_filename(list_url)
+TypeError: generate_list_filename() takes exactly 1 argument (2 given)
+每日经济新闻 finished cost 744.793368s
+start pipeline for  中国证券网 49
+Traceback (most recent call last):
+  File "/home/zhangxiang/news_crawler/code/XX_Crawler/XXNewsETL.py", line 185, in run_pipelines
+    for news_info in crawler.run():
+  File "/home/zhangxiang/news_crawler/code/XX_Crawler/XXCrawlers.py", line 175, in run
+    filename = self.generate_list_filename(list_url)
+TypeError: generate_list_filename() takes exactly 1 argument (2 given)
+Traceback (most recent call last):
+  File "/home/zhangxiang/news_crawler/code/XX_Crawler/XXNewsETL.py", line 185, in run_pipelines
+    for news_info in crawler.run():
+  File "/home/zhangxiang/news_crawler/code/XX_Crawler/XXCrawlers.py", line 175, in run
+    filename = self.generate_list_filename(list_url)
+TypeError: generate_list_filename() takes exactly 1 argument (2 given)
+网易财经 finished cost 15.124299s
+start pipeline for  腾讯财经 50
+中国证券网 finished cost 64.378406s
+start pipeline for  证券时报 51
+腾讯财经 finished cost 313.444291s
+start pipeline for  荆楚网金融 52
+证券时报 finished cost 603.225261s
+start pipeline for  财新网 53
+荆楚网金融 finished cost 417.429015s
+start pipeline for  央视证券 54
+财新网 finished cost 142.091961s
+央视证券 finished cost 164.552289s
+证券日报 finished cost 2015.615639s
+大众网财经 finished cost 2577.432883s
+中国经济网 finished cost 6396.052374s
+Crawling finished ... cost 10201.170899s 
